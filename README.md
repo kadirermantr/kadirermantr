@@ -20,14 +20,6 @@ I'm a student and software developer.
 
 <br />
 
-<strong>My favourite editors:</strong>
-<ul>
-   <li>PHPStorm</li>
-   <li>Visual Code</li>
-</ul>
-
-<br />
-
 ## Skills
 <ul>
    <li>👁️ HTML5, CSS3, Bootstrap</li>
