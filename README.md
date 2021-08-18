@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hey, I'm Kadir 👋
+I'm a student and software developer.
 
-<!--
-**kadirermantr/kadirermantr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+   <li>🔭 I’m currently working on PHP</li>
+   <li>🌱 I’m learning web technologies</li>
+   <li>⚡ Fun fact: I can't tell letter of "R" most of the time. Because I have a lisp 😄</li>
+</ul>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 <strong>2021 Goals:</strong>
+<ul>
+   <li>Finishing PHP bootcamp</li>
+   <li>Making graduation project <i>@patika.dev</i></li>
+    <li>Learning new technologies and new programming languages</li>
+    <li>Developing new projects</li>
+    <li>Starting graduation project <i>@university</i></li>
+</ul>
+
+<br />
+
+## Skills
+<ul>
+   <li>👁️ HTML5, CSS3, Bootstrap</li>
+   <li>👨‍💻 PHP, Laravel</li>
+   <li>💻 C#, Java</li>
+   <li>💽 SQL</li>
+</ul>
+
+<br />
+
+## Connect with me
+<ul>
+   <li><a href="mailto:kadirermantr@gmail.com">kadirermantr@gmail.com</a></li>
+   <li><a href="https://www.linkedin.com/in/kadirerman/">kadirerman</a> on Linkedin</li>
+</ul>
