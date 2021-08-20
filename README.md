@@ -22,7 +22,7 @@ I'm a student and software developer.
 
 ## Skills
 <ul>
-   <li>👁️ HTML5, CSS3, Bootstrap</li>
+   <li>👁️ HTML, CSS, Bootstrap</li>
    <li>👨‍💻 PHP, Laravel</li>
    <li>💻 C#, Java</li>
    <li>💽 SQL</li>
