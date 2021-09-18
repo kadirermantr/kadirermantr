@@ -28,6 +28,8 @@ I'm a student and software developer.
    <li>💽 SQL</li>
 </ul>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirermantr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 ## Connect with me
