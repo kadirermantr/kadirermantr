@@ -7,11 +7,11 @@ I'm a student and software developer.
 
 
 🎯 **2021 Goals:**
-- Finishing PHP bootcamp
-- Making graduation project <i>@patika.dev</i>
-- Learning new technologies and new programming languages
-- Developing new projects
-- Starting graduation project <i>@university</i>
+- [x] Finishing PHP bootcamp
+- [x] Making graduation project <i>@patika.dev</i>
+- [ ] Learning new technologies and new programming languages
+- [ ] Developing new projects
+- [ ] Starting graduation project <i>@university</i>
 
 ## Skills
 - 👁️ HTML, CSS, Bootstrap
@@ -23,5 +23,5 @@ I'm a student and software developer.
 
 
 ## Connect with me
-- <a href="mailto:kadirermantr@gmail.com">kadirermantr@gmail.com</a>
-- <a href="https://www.linkedin.com/in/kadirerman/">kadirerman</a> on Linkedin
+- [kadirermantr@gmail.com](mailto:kadirermantr@gmail.com)
+- [kadirerman](https://www.linkedin.com/in/kadirerman/) on LinkedIn
