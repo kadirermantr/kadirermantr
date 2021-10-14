@@ -2,14 +2,14 @@
 I'm a student and software developer.
 
 - 🔭 I’m currently working on PHP
-- 🌱 I’m learning web technologies<
+- 🌱 I’m learning web technologies
 - ⚡ Fun fact: I can't tell letter of "R" most of the time. Because I have a lisp 😄
 
 
 🎯 **2021 Goals:**
 - Finishing PHP bootcamp
 - Making graduation project <i>@patika.dev</i>
-- Learning new technologies and new programming languages-
+- Learning new technologies and new programming languages
 - Developing new projects
 - Starting graduation project <i>@university</i>
 
