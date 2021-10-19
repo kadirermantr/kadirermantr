@@ -9,9 +9,9 @@ I'm a student and software developer.
 🎯 **2021 Goals:**
 - [x] Finishing PHP bootcamp
 - [x] Making graduation project [*@patika.dev*](https://www.patika.dev/)
+- [ ] Starting graduation project [*@university*](https://bilgisayar.dpu.edu.tr/)
 - [ ] Learning new technologies and new programming languages
 - [ ] Developing new projects
-- [ ] Starting graduation project [*@university*](https://bilgisayar.dpu.edu.tr/)
 
 ## Skills
 - 👁️ HTML, CSS, Bootstrap
