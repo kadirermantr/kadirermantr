@@ -5,8 +5,12 @@ I'm a student and software developer.
 - 🌱 I’m learning web technologies
 - ⚡ Fun fact: I can't tell letter of "R" most of the time. Because I have a lisp 😄
 
-**2022 Goals:**
+---
+
+🎯 **2022 Goals:**
 - I am going to specify new goals for 2022 as soon as possible
+
+---
 
 🎯 **2021 Goals:**
 - [x] Finishing PHP bootcamp
@@ -14,6 +18,8 @@ I'm a student and software developer.
 - [x] Starting graduation project [*@university*](https://bilgisayar.dpu.edu.tr/)
 - [x] Learning new technologies and new programming languages
 - [ ] Developing new projects
+
+---
 
 ## Skills
 - 👁️ HTML, CSS, Bootstrap
