@@ -7,16 +7,13 @@ I'm a student and software developer.
 
 
 🎯 **2022 Goals:**
-- I am going to specify new goals for 2022 as soon as possible
 
-
-🎯 **2021 Goals:**
-- [x] Finishing PHP bootcamp
-- [x] Making graduation project [*@patika.dev*](https://www.patika.dev/)
-- [x] Starting graduation project [*@university*](https://bilgisayar.dpu.edu.tr/)
-- [x] Learning new technologies and new programming languages
-- [ ] Developing new projects
-
+- [ ] Contributing to big projects [*@teknasyon*](https://github.com/Teknasyon-Teknoloji)
+- [ ] Learning new technologies
+- [ ] Learning  new programming languages (it may be Go)
+- [ ] Writing and publishing more articles
+- [ ] Savor the moment when I code :)
+- [ ] Improving myself 💪 Turn down for what.
 
 ## Skills
 - 👁️ HTML, CSS, Bootstrap
