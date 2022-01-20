@@ -11,6 +11,7 @@ I'm a student and software developer.
 - [ ] Contributing to big projects [*@teknasyon*](https://github.com/Teknasyon-Teknoloji)
 - [ ] Learning new technologies
 - [ ] Learning  new programming languages (it may be Go)
+- [ ] Improving my English language skills
 - [ ] Writing and publishing more articles
 - [ ] Savor the moment when I code :)
 - [ ] Improving myself 💪 Turn down for what.
