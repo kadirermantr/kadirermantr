@@ -1,5 +1,5 @@
 ## Hey 👋
-I'm a student and software developer.
+I'm a software developer.
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m learning web technologies
